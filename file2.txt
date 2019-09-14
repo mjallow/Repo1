@@ -1,0 +1,2 @@
+Creating my second txt file using touch and editing using vim
+Using  i to insert/write text into file. Then esc to get out of insert mode...then :wq to save and quit.
